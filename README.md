@@ -1,5 +1,5 @@
-# Non-Custodial Multi-Chain Asset Organization Tool  
-非托管多链资产整理工具（Rust 实现）
+# Non-Custodial Multi-Chain Asset Organization  
+非托管多链资产整理（Rust 实现）
 
 ---
 
