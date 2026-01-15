@@ -177,8 +177,17 @@ Users are solely responsible for:
 
 ## Project Status | 项目状态
 
-- Current stage: **Active development**
-- Focus: Security, correctness, extensibility
+- Current stage: **Released**
+- Status: Actively maintained
+
+- 当前状态：**已发布**
+- 维护情况：持续维护中
+
+---
+
+## Support & Contact
+
+- Email: onChainSync@outlook.com
 
 ---
 
